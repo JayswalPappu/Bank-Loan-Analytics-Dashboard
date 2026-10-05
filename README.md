@@ -107,7 +107,7 @@ interactive analytical dashboard that makes it easier to:
 11. Dashboard Preview
 - Add the dashboard screenshots from the IMAGES folder to showcase the
   final Power BI report.
-- Show how dashboard looks like - ![Alt text](https://github.com/JayswalPappu/Bank-Loan-Analytics-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
-- 
+- Show what the Dashboard looks like - ![Alt text](https://github.com/JayswalPappu/Bank-Loan-Analytics-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
+- Show what the Dashboard looks like - ![Alt text](https://github.com/JayswalPappu/Bank-Loan-Analytics-Dashboard/blob/main/Sanpshot%20of%20the%20overview.png)
 
 
