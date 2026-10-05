@@ -85,13 +85,13 @@ and borrower-related metrics using interactive charts and filters.
 - PowerPoint -- Project/problem-statement documentation
 
 9. How to Use
-1. Install Microsoft Power BI Desktop.
-2. Download or clone this repository.
-3. Open Bank Loan Analytics Dashboard.pbix.
-4. If Power BI asks for the source file, point it to
+- Install Microsoft Power BI Desktop.
+-  Download or clone this repository.
+- Open Bank Loan Analytics Dashboard.pbix.
+- If Power BI asks for the source file, point it to
    Financial_loan_data.xlsx.
-5. Refresh the data if required.
-6. Use the available filters and dashboard navigation to explore the
+- Refresh the data if required.
+- Use the available filters and dashboard navigation to explore the
    loan portfolio.
    
 10. Project Goal
@@ -105,7 +105,9 @@ interactive analytical dashboard that makes it easier to:
 - Support data-driven lending decisions
   
 11. Dashboard Preview
-Add the dashboard screenshots from the IMAGES folder to showcase the
-final Power BI report.
+- Add the dashboard screenshots from the IMAGES folder to showcase the
+  final Power BI report.
+- Show how dashboard looks like - ![Alt text](https://github.com/JayswalPappu/Bank-Loan-Analytics-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
+- 
 
 
